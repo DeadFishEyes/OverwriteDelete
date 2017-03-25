@@ -1,5 +1,5 @@
 # OverwriteDelete
-Python Program to Overwrite files in order to be unable to recover them...
+Python Program to Overwrite files in order to be unable to recover them when deleted...
 
 <ul>
 <li> Simple - Easy to customize</li>
